@@ -1,0 +1,80 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    /* margin:500px auto  0; */
+    overflow-x: hidden;
+}
+h1{
+    
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    color: crimson;
+}
+.header{
+    text-align: center;
+}
+hr{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.button{
+    padding: 10px;
+    margin-left: 40px;
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    background-color:crimson;
+    border-radius: 10px;
+   text-decoration: none;
+   
+}
+.button:hover{
+    background-color: darkmagenta;
+}
+
+/* .gallery img {
+size: 200px;
+} */
+.intro-section{
+    
+    text-align: center;
+}
+.column{
+   
+    float: left;
+    /* width: 5%; */
+    /* padding: 5px; */
+    width: 25%;
+}
+.movie-review{
+    text-align: center;
+}
+.more-button{
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    background-color: crimson;
+}
+
+.more-button:hover{
+    background-color: darkmagenta;
+}
+.box{
+    box-shadow: 7px 7px 15px black;
+}
+footer{
+    text-align: center;
+    
+}
+footer a{
+    text-decoration: none;
+    font-size: 20px;
+    color: crimson;
+}
+footer a:hover{
+    background-color: darkmagenta;
+    border-radius: 10px;
+    padding: 3px;
+}
+footer p{
+    color: crimson;
+}
